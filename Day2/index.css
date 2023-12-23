@@ -1,0 +1,36 @@
+.h-center{
+    text-align: center;
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading{
+    color: rgb(29, 29, 109);
+    font-size: 30px;
+    text-shadow: 2px 2px;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;border-radius: 25px;
+}
+.para{
+    color: rgb(155, 93, 17);
+    font-size: large;
+    font-style: italic;
+    font-weight: 700;
+}
+.button{
+    color: rgb(37, 153, 153);
+    background-color: blueviolet;
+    font-family: fantasy;
+    font-size: medium;
+    font-weight: 200;
+    font-style: italic;
+}
+.button1{
+    border-radius: 50%;
+    box-shadow: 5px 10px;
+}
+div {
+    border: 15px solid green;
+    padding: 25px;
+    margin: 500px;
+}

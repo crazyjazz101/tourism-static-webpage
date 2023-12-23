@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.random{
+    text-align: center;
+    background-image: url("shelf.webp");
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.third{
+    text-align: left;
+}
+.btn{
+    color: aqua;
+    padding: 8px;
+    font-size:small;
+    background-color: black;
+    border-radius: 50%;
+    border-radius: 50%;
+    box-shadow: 5px 5px;
+}
+.test{
+    text-decoration: underline;
+    font-size: small;
+    margin-top: 10px;
+}
+.main{
+    font-family:  Arial;
+}
+.mainpara{
+    font-family:  'Arial Narrow';
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.second{
+    font-family: Arial;
+    margin-bottom: 10px;
+}

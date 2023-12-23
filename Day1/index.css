@@ -1,0 +1,14 @@
+.h-center{
+    text-align:center ;
+    text-decoration-color: rgb(25, 25, 136);
+}
+h1 {
+    color: rgb(21, 103, 197);
+    text-decoration-line: underline;
+    
+}
+div {
+    border: 15px solid green;
+    padding: 25px;
+    margin: 500px;
+}
